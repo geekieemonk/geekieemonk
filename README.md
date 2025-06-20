@@ -11,7 +11,7 @@ Welcome to my corner of GitHub, where curiosity meets code and creativity blends
 
 ## 🧠 What I Work On
 
-I’m building at the **intersection of content, data, and technology** — powering content-driven businesses with tech that understands behavior and scales insight.
+I’m building at the **intersection of content, data, and technology** powering content-driven businesses with tech that understands behavior and scales insight.
 
 > “Build with data, scale with intent.”
 <!--

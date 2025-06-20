@@ -1,5 +1,32 @@
 ## Hi there 👋
 
+# Hey, I’m Geekiemonk 👋
+
+Welcome to my corner of GitHub, where curiosity meets code and creativity blends with data!
+
+## 🚀 What I’m Exploring
+
+- 🌐 Web Technologies — from frameworks to performance optimization
+- 🤖 Generative AI — playing at the edge of creativity and computation
+
+## 🧠 What I Work On
+
+I’m building at the **intersection of content, data, and technology** — powering content-driven businesses with tech that understands behavior and scales insight.
+
+> “Build with data, scale with intent.”
+<!--
+## 📊 Current Focus
+
+- Using AI to supercharge content intelligence
+- Exploring new interfaces for interaction: AI + Web3 + UX
+- Prototyping tools and apps that solve real-world bottlenecks
+
+## 📫 Let’s Connect
+
+
+---
+
+
 <!--
 **geekieemonk/geekieemonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

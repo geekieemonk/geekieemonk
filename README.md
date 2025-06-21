@@ -13,7 +13,9 @@ Welcome to my corner of GitHub, where curiosity meets code and creativity blends
 
 I’m building at the **intersection of content, data, and technology** powering content-driven businesses with tech that understands behavior and scales insight.
 
-> “Build with data, scale with intent.”
+> “Build with data, scale with intent.”<br>
+
+> ![](https://github-readme-stats.vercel.app/api?username=geekieemonk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <!--
 ## 📊 Current Focus
 

@@ -15,7 +15,7 @@ I’m building at the **intersection of content, data, and technology** powering
 
 > “Build with data, scale with intent.”<br>
 
-> ![](https://github-readme-stats.vercel.app/api?username=geekieemonk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 <!--
 ## 📊 Current Focus
 

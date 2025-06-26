@@ -8,6 +8,8 @@ Welcome to my corner of GitHub, where curiosity meets code and creativity blends
 
 - 🌐 Web Technologies — from frameworks to performance optimization
 - 🤖 Generative AI — playing at the edge of creativity and computation
+- Rust and Blockchains
+  
 
 ## 🧠 What I Work On
 
